@@ -1,0 +1,33 @@
+{
+  "name": "split-any",
+  "version": "1.0.0",
+  "description": "A function to split any type of input into pieces.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">=6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyurl/split-any.git"
+  },
+  "keywords": [
+    "split",
+    "array"
+  ],
+  "author": "Ayon Lee <i@hyurl.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyurl/split-any/issues"
+  },
+  "homepage": "https://github.com/hyurl/split-any#readme",
+  "devDependencies": {
+    "@types/node": "^12.7.12",
+    "mocha": "^6.2.1"
+  },
+  "dependencies": {
+    "is-like": "^0.1.2"
+  }
+}

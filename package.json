@@ -1,6 +1,6 @@
 {
   "name": "split-any",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A function to split any type of input into pieces.",
   "main": "index.js",
   "scripts": {
